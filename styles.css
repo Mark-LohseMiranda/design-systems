@@ -1,0 +1,94 @@
+body {
+    background: tan;
+}
+
+.container {
+    border: .11em solid black;    
+    margin: 1em;
+    padding-left: 1em;
+}
+
+.color {
+    border: 0.1em solid black;
+    display: inline-block;
+    color: whitesmoke;
+    width: 25%;
+    height: auto;
+    text-align: center;
+    padding: 2em;
+    font-size: 14px;    
+}
+
+.redorange {
+    background-color: #F54507;
+}
+
+.orange {
+    background-color: #FF6C08;
+}
+
+.orangebrown {
+    background-color: #E88205;
+}
+
+.orangeyellow {
+    background-color: #FFAB08;
+}
+
+.sunyellow {
+    background-color: #f5BC07;
+}
+
+.Title {
+    text-decoration: underline;
+    font-weight: 200;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+.FiraSans {
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+
+.Lora {
+    font-family: 'Lora', serif;
+     
+}
+
+.FiraSans .Lora {
+    display: inline-block;
+}
+
+.Regular {
+    font-weight: 200;
+}
+
+.Medium {
+    font-weight: 800;
+}
+
+.Italic {
+    font-style: italic;
+}
+
+.text-styles h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.text-styles h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Lora', serif;
+}
+
+.text-styles p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Lora', serif;
+}
